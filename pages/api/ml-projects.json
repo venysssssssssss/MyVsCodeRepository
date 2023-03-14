@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "PyAutoGui Automation",
+    "image": "https://i.imgur.com/xzLSO47.jpeg",
+    "description": "A automation to take a .csv, download, import DataBase, calculate terms and send to e-mail.",
+    "tags": ["Gmail", "PyAutoGui", "Automation"],
+    "source_code": "https://github.com/drkostas/Minecraft-AI"
+  },
+  {
+    "id": 2,
+    "name": "Linear Regression House Value",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Florida_%281900%E2%80%931985%29.svg/2560px-Flag_of_Florida_%281900%E2%80%931985%29.svg.png",
+    "description": "A Linear Regression with a true DataBase of Florida house's 1900s",
+    "tags": ["Pandas", "Numpy", "Matplotlib","Tensorflow"],
+    "source_code": "https://github.com/drkostas/3D-Semantic-Segmentation"
+  },
+  {
+    "id": 3,
+    "name": "Simple Linear Regression Example",
+    "image": "https://miro.medium.com/v2/resize:fit:640/1*LEmBCYAttxS6uI6rEyPLMQ.png",
+    "description": "Simple Linear Regression utilizing random generated predetermined matrices.",
+    "tags": ["Pandas", "Numpy", "Matplotlib", "Tensorflow"],
+    "source_code": "https://github.com/drkostas/Bert-Question-Answering"
+  },
+  {
+    "id": 4,
+    "name": "Convolucional Neural Network Example",
+    "image": "https://static.imasters.com.br/wp-content/uploads/2016/06/redes-1.png",
+    "description": "Using CNN to differentiate images of cats and dogs.",
+    "tags": ["Scipy", "Neural-Network","Keras", "PIL"],
+    "source_code": "https://github.com/drkostas/accident-severity-prediction"
+  }
+]

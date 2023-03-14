@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Discord Bot",
+    "image": "https://i.imgur.com/3Q6ahBg.jpeg",
+    "description": "A bot able to reproduce music, send welcome messages to new users and +",
+    "tags": ["Discord"],
+    "source_code": "https://github.com/venysssssssssss/DiscordBotPython"
+  },
+  {
+    "id": 2,
+    "name": "Job Application Bot",
+    "image": "https://imgur.com/BX6C6ke.png",
+    "description": "In development. Credit: drkostas on GitHub",
+    "tags": ["Gmail", "Dropbox", "MySQL", "AWS", "RDS", "CircleCI", "Heroku", "Crawler", "Scraper"],
+    "source_code": "https://github.com/venysssssssssss/JobApplicationBot"
+  }
+]
