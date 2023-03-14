@@ -18,8 +18,8 @@ const contactItems = [
   },
   {
     social: 'Website',
-    link: 'venys.tech',
-    href: 'https://venys.tech',
+    link: 'venys.versel.app',
+    href: 'https://venys.vercel.app/',
   },
 ];
 
