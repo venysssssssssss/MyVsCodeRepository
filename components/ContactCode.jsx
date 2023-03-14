@@ -18,8 +18,8 @@ const contactItems = [
   },
   {
     social: 'Website',
-    link: 'gkos.tech',
-    href: 'https://gkos.tech',
+    link: 'venys.tech',
+    href: 'https://venys.tech',
   },
 ];
 
